@@ -1,4 +1,4 @@
-his project demonstrates a simple and memory-efficient implementation of the Fibonacci sequence using a generator function in Python.
+this project demonstrates a simple and memory-efficient implementation of the Fibonacci sequence using a generator function in Python.
 
 🔢 What is the Fibonacci Sequence?
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1:
@@ -45,25 +45,6 @@ rust
 Copy
 Edit
 Fibonacci sequence for n=10: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
-📁 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/fibonacci-generator.git
-cd fibonacci-generator
-Run the script:
 
-bash
-Copy
-Edit
-python fibonacci.py
-🛠️ Customization
-You can modify the script to:
 
-Generate an infinite Fibonacci sequence
-
-Write the sequence to a file
-
-Visualize the numbers using a plot library like matplotlib
